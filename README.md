@@ -37,3 +37,8 @@ It returns the value of list at required index, if value is not present it retur
 It returns True if list is empty otherwise false.
 #### __type_cast(id):
 It only type cast id of an object of node into object and returns the object.
+
+### Group Members
+* Talha Ahmed(18B-024-SE)
+* Mudassir Zia(18B-018-SE)
+* Varda Sheikh(18B-011-SE)
