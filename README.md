@@ -11,5 +11,5 @@ XOR Linked List is the memory efficient version of Doubly Linked List because
 * Length()
 * PrintByIndex(index)
 * isEmpty()
-Private Comment which is only used for type cast pointer to XOR it.
+--Private Comment which is only used for type cast pointer to XOR it.
 * __type_cast(id)
